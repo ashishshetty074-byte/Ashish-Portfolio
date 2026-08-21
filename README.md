@@ -3,7 +3,7 @@
 A personal portfolio website built as the beginner-level deliverable for my Full-Stack Developer internship at **ShadowFox**.
 
 **Live site:**
-- Netlify → https://zingy-lily-909d64.netlify.app/
+- Netlify → https://zingy-sprinkles-281bb2.netlify.app/
 - GitHub Pages → https://ashishshetty074-byte.github.io/Ashish-Portfolio/
 
 ---
